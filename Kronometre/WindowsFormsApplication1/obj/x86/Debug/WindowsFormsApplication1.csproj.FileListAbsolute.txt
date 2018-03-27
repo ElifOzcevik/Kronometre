@@ -1,0 +1,27 @@
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Matlab\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\OKUL\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\OKUL\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elift Özçevik\Desktop\GİTHUB\NTP2\23.12 uyg\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Elift Özçevik\Desktop\GİTHUB\+\Kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elift Özçevik\Desktop\GİTHUB\+\Kronometre\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
